@@ -170,3 +170,7 @@ If you find our work useful in your research, please consider citing:
 ## 🚀 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-MAI/Z-Image&type=date&legend=top-left)](https://www.star-history.com/#Tongyi-MAI/Z-Image&type=date&legend=top-left)
+
+
+## 📖 Further Reading
+- [Z-Image Turbo is Fast, But "Dumb"? Here’s How to Fix It (On 8GB VRAM)](https://lite.evernote.com/note/9e16da47-72b4-462e-b883-80876a4bfcb3)
